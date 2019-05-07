@@ -7,17 +7,22 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <code>TODO:</code>
+        design website <br />
+        fix auto-deployment for gh-pages
+        <br /> ???
+        <br /> profit.
+        <br />
+        <br />
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/DobieDevelopments/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello World Website !
-        </a>
+          check out my GitHub!
+        </a>{" "}
+        (:
       </header>
     </div>
   );
